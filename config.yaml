@@ -124,7 +124,7 @@ params:
     image: "/avi.png"
     content: |-
       I am a passionate developer dedicated to building web application from the ground up. I’m interested in blockchain technology and development.
-      I'm currently learning learning React, Next and other frameworks.
+      I'm currently learning React, Next and other frameworks.
       I'm looking to collaborate on full stack projects and Ethereum development projects.
     skills:
       enable: true
