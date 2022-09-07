@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: https://asapdeen.hashnode.dev/
       weight: 1
     
     # - identifier: gallery
